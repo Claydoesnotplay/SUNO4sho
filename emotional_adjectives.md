@@ -1,0 +1,109 @@
+# Emotional Adjectives for Music
+
+## Energetic/Intensity
+- aggressive
+- frenetic
+- vigorous
+- explosive
+- turbulent
+- restless
+- kinetic
+- driving
+- propulsive
+- relentless
+
+## Dark/Heavy
+- ominous
+- foreboding
+- menacing
+- brooding
+- somber
+- melancholic
+- mournful
+- desolate
+- bleak
+- anxious
+
+## Light/Uplifting
+- euphoric
+- triumphant
+- exuberant
+- jubilant
+- buoyant
+- playful
+- whimsical
+- lighthearted
+- carefree
+- radiant
+
+## Contemplative/Introspective
+- meditative
+- pensive
+- reflective
+- intimate
+- tender
+- nostalgic
+- wistful
+- yearning
+- longing
+- serene
+
+## Tense/Unsettling
+- disorienting
+- chaotic
+- jarring
+- abrasive
+- harsh
+- frantic
+- neurotic
+- paranoid
+- claustrophobic
+- oppressive
+
+## Calm/Peaceful
+- tranquil
+- soothing
+- gentle
+- placid
+- ethereal
+- dreamlike
+- hypnotic
+- floating
+- suspended
+- luminous
+
+## Mysterious/Atmospheric
+- enigmatic
+- haunting
+- eerie
+- mystical
+- otherworldly
+- cryptic
+- shadowy
+- veiled
+- nebulous
+- spectral
+
+## Passionate/Expressive
+- dramatic
+- impassioned
+- fervent
+- ardent
+- visceral
+- raw
+- cathartic
+- intense
+- searing
+- blazing
+
+## Cold/Detached
+- clinical
+- sterile
+- mechanical
+- austere
+- stark
+- glacial
+- detached
+- remote
+- impersonal
+- stark
